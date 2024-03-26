@@ -1,0 +1,29 @@
+{
+  "name": "inventorequisquam",
+  "description": "Parse immediate identifiers from a js expression",
+  "version": "1.2.3",
+  "keywords": [
+    "template",
+    "officia",
+    "parse",
+    "parser"
+  ],
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.9.0"
+  },
+  "component": {
+    "scripts": {
+      "props/index.js": "index.js"
+    }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoahGreenholt/inventorequisquam.git"
+  },
+  "author": "KeithKozey",
+  "bugs": {
+    "url": "https://github.com/NoahGreenholt/inventorequisquam.git/issues"
+  }
+}
